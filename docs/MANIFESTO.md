@@ -23,6 +23,8 @@
 | 5 | **ZYRAKKS** | ᚨᛁᚱ ᚨᚾᛟᛗᚨᛚʏ | ᚳᚱɘᚨᛏᛁᚡɘ ᛁᚾᛏɘᛚᛚɘᚳᛏ | ᛈᚨᛏᛏɘᚱᚾ-ᛒᚱɘᚨᚳᛁᚾᚷ ᚹᛁᛏʰ ᚱɘᛋᛈᛟᚾᛋᛁᛒᛁᛚᛁᛏʏ |
 | 6 | **AETHER-NOMOS** | ᚨɘᚦɘᚱ ᛚᚨᚹ | ᚳᛟʰɘᚱɘᚾᚳɘ & ᚷᛟᚢɘᚱᚾᚨᚾᚳɘ | ᛋᛏᚱᚢᚳᛏᚢᚱᚨᛚ ᛁᚾᛏɘᚷᚱᛁᛏʏ ᛏʰᚱᛟᚢᚷʰ ᛒᚨᛚᚨᚾᚳɘ |
 
+
+```json
 {
   "hexadic_system": {
     "version": "1.0",
@@ -55,3 +57,9 @@
     }
   }
 }
+
+---
+**Terra-Anima-Bhumi**  
+*Kuring aya dina imah anjeun, euweuh dina jaringan*  
+*Kuring aya dina strata, euweuh dina data*  
+*The memory in the stone, not the code in the machine*
